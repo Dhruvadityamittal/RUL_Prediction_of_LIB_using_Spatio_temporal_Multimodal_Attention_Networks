@@ -1,0 +1,2 @@
+# RUL_Prediction_of_LIB_using_Spatio_temporal_Multimodal_Attention_Networks
+Code for Remaining Useful Life Prediction of Lithium-ion Batteries using Spatio-temporal Multimodal Attention Networks
